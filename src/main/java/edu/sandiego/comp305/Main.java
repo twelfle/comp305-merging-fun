@@ -6,5 +6,8 @@ public class Main {
         System.out.println("Hello Joe Roni");
         System.out.println("Hello, Dr. Krause-Levy!");
         System.out.println(" Hello, Devon Montgomery-Eder!");
+        System.out.println("Hello, Md Nazmul Hasan");
+        System.out.println("Hello, test XYZ");
+        
     }
 }
